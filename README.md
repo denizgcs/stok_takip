@@ -13,6 +13,7 @@ Mysql kullanılmıştır ve uygulama localhost a bağlandığı için kendi veri
 
 ![image](https://github.com/user-attachments/assets/4d924973-a982-4979-9229-73cc1078d01b)
 
+
 ![image](https://github.com/user-attachments/assets/5336d9a5-83c3-4a05-8407-e01e46a677be)
 
 ![image](https://github.com/user-attachments/assets/cde9f40f-f918-42be-b960-9b0d73fb3552)
