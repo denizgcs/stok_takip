@@ -17,6 +17,9 @@ namespace stok_takip.access
 {
     public class TedarikciAccess
     {
+        /// <summary>
+        /// buaraya kendi veritabanıozel bilgilerinizi girin.
+        /// </summary>
         private readonly string connectionString = "Server=localhost;Database=stok_takip;Uid=;Pwd=;";
 
         public List<TedarikciModel> GetSuppliers(string searchTerm = "")
