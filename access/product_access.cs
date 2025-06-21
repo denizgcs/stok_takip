@@ -10,7 +10,12 @@ using System.Windows;
 namespace stok_takip.access
 {
     internal class product_access
-    {
+    {        /// <summary>
+             /// buaraya kendi veritabanıozel bilgilerinizi girin.
+             /// </summary>
+
+        private readonly string connectionString = "Server=localhost;Database=stok_takip;Uid=;Pwd=;";
+
 
 
         public List<product> product_read(string searchTerm = "")

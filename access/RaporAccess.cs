@@ -11,6 +11,11 @@ using System.Windows;
 namespace stok_takip.access
 {
     public class RaporAccess
+    {        /// <summary>
+             /// buaraya kendi veritabanıozel bilgilerinizi girin.
+             /// </summary>
+        private readonly string connectionString = "Server=localhost;Database=stok_takip;Uid=;Pwd=;";
+
 
         public RaporModel GetGenelIstatistikler()
         {

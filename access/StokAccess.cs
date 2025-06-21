@@ -12,6 +12,11 @@ namespace stok_takip.access
     public class StokAccess
     {
 
+        /// <summary>
+        /// buaraya kendi veritabanıozel bilgilerinizi girin.
+        /// </summary>
+        private readonly string connectionString = "Server=localhost;Database=stok_takip;Uid=;Pwd=;";
+
         public List<StokDurumuModel> GetStokDurumuListesi(string searchTerm = "")
         {
             List<StokDurumuModel> stokListesi = new List<StokDurumuModel>();
