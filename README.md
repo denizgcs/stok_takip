@@ -1,6 +1,6 @@
 # stok_takip
 
-Mysql kullanılmıştır ve uygulama localhost a bağlandığı için kendi veritabanınıza göre yapılandırılmalıdır
+Mysql kullanılmıştır ve uygulama localhost a bağlandığı için kendi veritabanınıza göre yapılandırılmalıdır. kodlar stokSql dosyasın da bulunmaktadır
 
 ![image](https://github.com/user-attachments/assets/fb0b0d03-b9fa-4080-a531-a60162a7f110)
 
